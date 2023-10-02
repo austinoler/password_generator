@@ -3,3 +3,5 @@ This is a password generator. It allows you to generate a password, according to
 
 https://austinoler.github.io/password_generator/
 https://github.com/austinoler/password_generator
+
+<img src="IMG_5652.HEIC" alt="screenshot of my application">;
